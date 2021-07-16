@@ -1,0 +1,68 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "image": "https://www.normaeditorial.com/upload/media/albumes/0001/07/7278748f32eb647130ce13098ada63fd68af633b.jpeg",
+        "background": "https://areajugones.sport.es/wp-content/uploads/2019/08/God-of-War.jpg",
+        "title": "God of War ™",
+        "price": "20.99 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      { 
+        "id": 2,
+        "image": "https://image.api.playstation.com/cdn/EP3746/CUSA09415_00/iOZJVz9HyD3V5UBwKA0HJg14znS8jRXa.png",
+        "background": "https://i.pinimg.com/originals/05/23/0e/05230e2181d962a9eaaa6a0288d9bc85.jpg",
+        "title": "Undertale ™",
+        "price": "40.33 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 3,
+        "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+        "background": "https://www.gamerfocus.co/wp-content/uploads/2018/09/Red_Dead_Redemption_II_Screen_6.jpg",
+        "title": "Red Dead Redemption 2 ™",
+        "price": "49.99 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 4,
+        "image": "https://s2.gaming-cdn.com/images/products/6202/orig/horizon-zero-dawn-complete-edition-cover.jpg",
+        "background": "https://images7.alphacoders.com/718/thumb-1920-718521.jpg",
+        "title": "Horizon Zero Down ™",
+        "price": "35.50 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 5,
+        "image": "https://i.blogs.es/295b7f/hogwarts-legacy-desktop/1366_2000.jpeg",
+        "background": "https://locosxlosjuegos.com/wp-content/uploads/2021/01/hogwarts-legacy.jpg",
+        "title": "Hogwarts Legacy ™",
+        "price": "69.99 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 6,
+        "image": "https://media.vandal.net/i/1200x630/90446/final-fantasy-xvi-2020102915462254_1.jpg",
+        "background": "https://www.siempreenred.com/wp-content/uploads/2021/02/Esto-es-lo-Nuevo-de-Final-Fantasy-XVI-interna1.jpg",
+        "title": "Final Fantasy XVI ™",
+        "price": "70.00 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 7,
+        "image": "https://phantom-marca.unidadeditorial.es/88747b6162988e8fd92abcdb5fa27018/crop/9x0/1088x607/resize/1320/f/jpg/assets/multimedia/imagenes/2021/03/31/16171807969397.jpg",
+        "background": "https://wallpapercave.com/wp/wp7480272.jpg",
+        "title": "Kena, Bridges of Spirits ™",
+        "price": "59.99 USD",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      {
+        "id": 8,
+        "image": "https://bolavip.com/__export/1623350255127/sites/bolavip/img/2021/06/10/lost-ark-lanzamiento_1_crop1623350254380.jpg_1217713605.jpg",
+        "background": "https://www.gamewallpapers.com/wallpapers_slechte_compressie/01wallpapers/wallpaper_lost_ark_01_1920x1080.jpg",
+        "title": "Lost Ark",
+        "price": "Free to Play",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      }
+    ]
+}

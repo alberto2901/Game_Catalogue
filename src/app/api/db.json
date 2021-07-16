@@ -1,0 +1,18 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "image": "https://i.blogs.es/7d2c45/godofwar/1366_2000.jpg",
+        "title": "God of War",
+        "price": "20.99€",
+        "description": "El juego narra las aventuras de Kratos, un general espartano al servicio de los dioses de la mitología griega. El desarrollo gira en torno a la idea de la hibris (desmesura) de Kratos al rebelarse contra los dioses y su propio destino, y la némesis a la cual se ve sometido, estando así en consonancia con la literatura griega clásica. Sin embargo, en este caso la hibris de Kratos no sólo no es castigada, sino que le supone una victoria y destino mayor del que él mismo había concebido."
+      },
+      {
+        "id": 2,
+        "image": "",
+        "title": "",
+        "price": "",
+        "description": ""
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+<div class="father">
+    <div class="title">
+        <h2>BESTSELLER</h2>
+    </div>
+    
+    <div class="container">
+        <div class="card" *ngFor="let game of gamesObject">
+            <!-- <game-card [game]="game"></game-card> -->
+            <div class="card-game">
+                <a [routerLink] ="['/games', game.id]"><img src="{{ game.image }}"></a> 
+            </div>
+        
+            <div class="down">
+                <div class="left">
+                    <p>{{ game.title }}</p>
+                    <p class="price">{{ game.price }}</p>
+                </div>
+                
+                <div class="right">
+                    <button class="button">BUY NOW</button>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</div>
